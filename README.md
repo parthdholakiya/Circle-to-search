@@ -32,3 +32,7 @@ Using Python and libraries like PyTorch, YOLOv5, and googlesearch, Circle to Sea
 ## Contributing
 
 Contributions are welcome! Submit a pull request with ideas or features.
+
+## Acknowledgments
+
+Circle to Search is inspired by Google's innovative technologies in computer vision and search. We acknowledge Google's contributions to the field and their commitment to making information more accessible and user-friendly.
